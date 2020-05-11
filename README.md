@@ -1,2 +1,2 @@
-# lcn
-Notebook de LCN 
+# LCN
+Fichas de LCN 
